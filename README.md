@@ -2,6 +2,7 @@
 
 > **👉 Quer jogar agora mesmo?**  
 > 🔗 Teste online: [https://tanacara.alexsandronuneslacerda.com.br](https://tanacara.alexsandronuneslacerda.com.br)
+> 
 > Versão: 1.0.0.7
 
 ---
