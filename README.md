@@ -89,6 +89,16 @@ http://localhost:7072
 
 ---
 
+## 🧑‍💻 Tecnologias utilizadas
+
+- **.NET 9** (Blazor Server)
+- **C#**
+- **Bootstrap 5**
+- **Blazored.LocalStorage**
+- **Docker**
+
+---
+
 ## 📜 Licença & Autor
 
 © **Tá na Cara!** – Desenvolvido por **Alexsandro Nunes Lacerda**  
@@ -108,3 +118,4 @@ Gostou da ideia?
 - Abra **issues** com ideias e melhorias  
 
 > **Sua participação ajuda o jogo a crescer e se tornar ainda mais divertido!** 🎉
+
