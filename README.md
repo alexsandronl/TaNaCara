@@ -9,6 +9,8 @@
 O **Tá na Cara!** é um jogo social e divertido para **times, amigos e eventos online**.  
 A dinâmica é simples: arraste nomes, justifique suas escolhas, avalie os outros e descubra quem conhece melhor o grupo.  
 
+Inspirado em uma dinâminca na Hyti (Agradecimento ao Paulo e a Jaqueline)
+
 ✨ **Diversão garantida + integração rápida + interface moderna**  
 
 💡 Pode ser usado em diversos contextos, como:  
