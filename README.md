@@ -99,6 +99,19 @@ http://localhost:7072
 
 ---
 
+## 🧩 Técnicas e padrões utilizados
+
+- **Componentização com Blazor**: UI dividida em componentes reutilizáveis.
+- **EventCallback e Data Binding**: Comunicação eficiente entre componentes e atualização reativa da interface.
+- **Injeção de Dependência**: Serviços como navegação, storage e lógica de jogo injetados via DI.
+- **Singleton para estado em memória**: Todas as salas e dados do jogo são mantidos em memória, sem banco de dados.
+- **Timer centralizado no servidor**: Controle de tempo das rodadas feito no backend, garantindo sincronização para todos.
+- **Responsividade com Bootstrap**: Layout adaptável para desktop e mobile.
+- **Validação e feedbacks em tempo real**: Mensagens de erro e sucesso exibidas instantaneamente ao usuário.
+- **Padrão Service Layer**: Lógica de negócio separada em serviços (ex: GameService, ScoringService).
+
+---
+
 ## 📜 Licença & Autor
 
 © **Tá na Cara!** – Desenvolvido por **Alexsandro Nunes Lacerda**  
