@@ -117,7 +117,7 @@ http://localhost:7072
 © **Tá na Cara!** – Desenvolvido por **Alexsandro Nunes Lacerda**  
 🔗 [Meu LinkedIn](https://www.linkedin.com/in/alexsandronuneslacerda)<br/>
 🔗 [Meu Instagram](https://www.instagram.com/alexsandronl)<br/>
-🔗 [Meu Site Pessoal](https://www.alexsandronuneslacerda.com.br)<br/>
+🔗 [Meu Site Pessoal](https://www.alexsandronuneslacerda.com.br) (Beta) <br/>
 
 Distribuído sob licença **MIT**
 
