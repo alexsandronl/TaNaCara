@@ -1,88 +1,101 @@
-# 🎉 Tá na cara! – Bingo Humano Multiplayer
+# 🎉 Tá na Cara! – Multiplayer de Integração
 
-> **Quer utilizar ou mesmo testar antes de instalar?**
->
-> Acesse: [https://tanacara.alexsandronuneslacerda.com.br/](https://tanacara.alexsandronuneslacerda.com.br/)
-
-![./tanacara01.png](./tanacara01.png)
-
-> **O jogo perfeito para integrar equipes, descontrair e se divertir!**
->
-> Descubra quem conhece melhor o grupo, desafie seus amigos e crie momentos inesquecíveis.  
-> **Pronto para dar risada e se surpreender? Baixe e jogue agora!**
+> **👉 Quer jogar agora mesmo?**  
+> Teste online: [https://tanacara.alexsandronuneslacerda.com.br](https://tanacara.alexsandronuneslacerda.com.br)
 
 ---
 
-## 🚀 Instale e rode em segundos com Docker
+## 🕹️ O que é?
+O **Tá na Cara!** é um jogo social e divertido para times, amigos e eventos online.  
+Arraste nomes, justifique suas escolhas, avalie os outros e descubra quem conhece melhor o grupo.  
 
-1. **Baixe a imagem mais recente:**
+✨ **Diversão garantida + integração rápida + interface moderna**  
+
+---
+
+![screenshot](./tanacara01.png)
+
+---
+
+## 🚀 Como rodar em segundos (via Docker)
+
+1. **Puxe a imagem mais recente**
 ```sh
 docker pull alexsandronuneslacerda/tanacara:latest
 ```
 
-2. **Rode o app na sua máquina:**
+2. **Execute na sua máquina**
 ```sh
 docker run -d -p 7072:7072 alexsandronuneslacerda/tanacara:latest
 ```
 
-3. **Acesse no navegador:**
+3. **Abra no navegador**
 ```
 http://localhost:7072
 ```
 
+💡 Pronto! Sem banco de dados, sem configuração complexa — tudo em memória.
+
 ---
 
-## 📖 Regras do Jogo
+## 📖 Regras rápidas do jogo
 
-- O anfitrião cria uma sala, define perguntas e nomes dos participantes.
-- Cada jogador responde às perguntas arrastando nomes e justificando suas escolhas.
-- Não é permitido repetir nomes em perguntas diferentes.
-- Após responder, todos avaliam as respostas dos colegas (concorda com o nome? a justificativa foi convincente?).
-- Pontuação:
-  - **15 pontos:** Nome único + justificativa convincente
-  - **10 pontos:** Nome único
-  - **5 pontos:** Nome repetido
-  - **0 pontos:** Em branco ou erro
-- Ranking final ao término da rodada.
-- O anfitrião pode reiniciar a sala para novas rodadas.
+- 👤 O **anfitrião cria a sala** com perguntas e lista de nomes.  
+- 🎯 Cada jogador arrasta **um nome único** para cada pergunta e adiciona justificativa.  
+- 🔄 Ao terminar, todos avaliam as respostas dos colegas.  
+- 🏆 Pontuação:  
+  - **15 pts** → nome único + justificativa convincente  
+  - **10 pts** → nome único  
+  - **5 pts** → nome repetido  
+  - **0 pts** → em branco ou errado  
+- 📊 Ranking final exibe quem mandou melhor.  
 
 ---
 
 ## 💡 Por que jogar?
 
-- Integração divertida para equipes, amigos e eventos online.
-- Fácil de usar, sem necessidade de cadastro.
-- Rodando 100% em memória, sem banco de dados.
-- Interface moderna e responsiva.
+✔ Integração descontraída para equipes  
+✔ Ótimo quebra-gelo em workshops e eventos  
+✔ Interface leve, responsiva e intuitiva  
+✔ Funciona totalmente em memória  
 
 ---
 
 ## 🛠️ Requisitos
 
-- Docker instalado ([baixe aqui](https://www.docker.com/products/docker-desktop/))
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) instalado na sua máquina
 
 ---
 
-## 📸 Prints do Jogo
+## 📸 Galeria de Prints
 
-![./tanacara01.png](./tanacara01.png)
-![./tanacara02.png](./tanacara02.png)
-![./tanacara03.png](./tanacara03.png)
-![./tanacara04.png](./tanacara04.png)
-![./tanacara05.png](./tanacara05.png)
-![./tanacara06.png](./tanacara06.png)
-![./tanacara07.png](./tanacara07.png)
-
----
-
-## 📝 Copyright
-
-© Tá na cara! 
-Desenvolvido por Alexsandro Nunes Lacerda  
-Distribuído sob licença MIT.
+<div align="center">
+  <img src="./tanacara02.png" width="32%" />
+  <img src="./tanacara03.png" width="32%" />
+  <img src="./tanacara04.png" width="32%" /><br/>
+  <img src="./tanacara05.png" width="32%" />
+  <img src="./tanacara06.png" width="32%" />
+  <img src="./tanacara07.png" width="32%" />
+</div>
 
 ---
 
-**Curtiu?**  
-Dê uma estrela ⭐ no repositório, compartilhe com amigos e ajude a espalhar a diversão!  
-Sinta-se à vontade para abrir issues, sugerir melhorias ou contribuir!
+## 📜 Licença & Autor
+
+© **Tá na Cara!** – Desenvolvido por **Alexsandro Nunes Lacerda**  
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/alexsandronuneslacerda)
+🔗 [Meu Instagram](https://www.instagram.com/alexsandronl)
+🔗 [Meu Site Pessoal](https://www.alexsandronuneslacerda.com.br)
+
+Distribuído sob licença **MIT**
+
+---
+
+## ⭐ Contribua
+
+Gostou da ideia?  
+- Dê uma **estrela** ⭐ no repositório  
+- Compartilhe com sua equipe ou amigos  
+- Abra **issues** com ideias e melhorias  
+
+> **Sua participação ajuda o jogo a crescer e se tornar ainda mais divertido!** 🎉
