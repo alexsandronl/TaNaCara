@@ -4,9 +4,7 @@
 >
 > Acesse: [https://tanacara.alexsandronuneslacerda.com.br/](https://tanacara.alexsandronuneslacerda.com.br/)
 
-![./tanacara01.jpg](./tanacara01.jpg)
-![print2.png](./prints/print2.png)
-![print3.png](./prints/print3.png)
+![./tanacara01.png](./tanacara01.png)
 
 > **O jogo perfeito para integrar equipes, descontrair e se divertir!**
 >
@@ -31,12 +29,6 @@ docker run -d -p 7072:7072 alexsandronuneslacerda/tanacara:latest
 ```
 http://localhost:7072
 ```
-
----
-
-## 📸 Prints do Jogo
-
-Coloque aqui prints das principais telas do jogo para mostrar a interface e engajar o usuário.
 
 ---
 
@@ -68,6 +60,18 @@ Coloque aqui prints das principais telas do jogo para mostrar a interface e enga
 ## 🛠️ Requisitos
 
 - Docker instalado ([baixe aqui](https://www.docker.com/products/docker-desktop/))
+
+---
+
+## 📸 Prints do Jogo
+
+![./tanacara01.png](./tanacara01.png)
+![./tanacara02.png](./tanacara02.png)
+![./tanacara03.png](./tanacara03.png)
+![./tanacara04.png](./tanacara04.png)
+![./tanacara05.png](./tanacara05.png)
+![./tanacara06.png](./tanacara06.png)
+![./tanacara07.png](./tanacara07.png)
 
 ---
 
