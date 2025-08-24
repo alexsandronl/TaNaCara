@@ -4,7 +4,7 @@
 >
 > Acesse: [https://tanacara.alexsandronuneslacerda.com.br/](https://tanacara.alexsandronuneslacerda.com.br/)
 
-![print1.png](./prints/print1.png)
+![./tanacara01.jpg](./tanacara01.jpg)
 ![print2.png](./prints/print2.png)
 ![print3.png](./prints/print3.png)
 
