@@ -1,4 +1,4 @@
-# 🎉 Tá na Cara! – Multiplayer de Integração
+# 🎉 Tá na Cara! – Multiplayer de Integração Social entre Equipes
 
 > **👉 Quer jogar agora mesmo?**  
 > Teste online: [https://tanacara.alexsandronuneslacerda.com.br](https://tanacara.alexsandronuneslacerda.com.br)
